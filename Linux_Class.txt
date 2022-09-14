@@ -556,6 +556,7 @@ What is the use of LVM in Linux?
 ==============================
 LVM is used for the following purposes: Creating single logical volumes of multiple physical volumes or entire hard disks (somewhat similar to RAID 0, but more similar to JBOD), allowing for dynamic volume resizing.
 
+Added extra for test
 
 
 
